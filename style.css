@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Noto Serif', serif;
+}
+header{
+    background-color: bisque;
+}
+.jacket{
+    border: 0;
+}
+.all-img{
+    height: 300px;
+    width: 250px;
+    background-color: gray;
+    border-radius: 5px;
+    align-items: center;
+}
+.logo{
+    width: 45%;
+}
+.logo img{
+    height: 100px;
+}
+.img{
+    width: 40%;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+h2{
+    color: tomato;
+}
+span{
+    color: tomato;
+}
+.col-img{
+    margin-bottom: 30px;
+    height: 400px;
+}
+.img1{
+    height: 100px;
+}
+.log{
+    border: 0;
+    margin:8px;
+}
+.ig{
+    height: 300px;
+    margin-top: 50px;
+}
+.div{
+    float: left;
+}
+.footer h2{
+  text-align: center;
+}
+.footer img{
+  height: 400px;
+  margin-bottom: 30px;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 5px solid black;
+    border-bottom: none;
+    width: 30%;
+    margin: 0 auto;
+    
+
+}
